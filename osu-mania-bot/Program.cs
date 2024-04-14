@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Threading;
 using Meebey.SmartIrc4net;
 using System.Text;
